@@ -66,7 +66,7 @@ if (changeType && description) {
     }
 
     const changesetContent = `---
-'@carfromjapan/builder-${packageName}': ${changeType}
+'@carfromjapan/${packageName}': ${changeType}
 ---
 ${description}
 `;

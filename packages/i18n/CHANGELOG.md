@@ -1,5 +1,11 @@
 ## 0.1.0
 
+## 2.0.2
+
+### Patch Changes
+
+- add new log message
+
 ## 2.0.1
 
 ### Patch Changes
