@@ -1,0 +1,18 @@
+{
+    "INQUIRY": "SWALI",
+    "Reply via Email": "Jibu kupitia barua pepe",
+    "Reply via MyCar": "Jibu kupitia MyCar",
+    "id_password_does_not_match": "Kitambulisho na Nywila hazilingani. Tafadhali jaribu tena au utumie chaguo la urejeshaji wa nywila hapa chini.",
+    "Please login to MyCar to reply": "Tafadhali ingia MyCar kujibu",
+    "email used to send INQUIRY": "barua pepe inayotumiwa kutuma SWALI",
+    "already_created_an_account": "Tayari tumeunda akaunti ya barua pepe hii. Nywilai la akaunti limetumwa kwa anwani ya barua pepe hapo juu. Tafadhali angalia nywila hilo kuendelea au unaweza kuweka upya neno hapa chini.",
+    "Reset password via above email": "Tengeneza nywila mpya kupitia barua pepe hapo juu",
+    "Success!": "Mafanikio!",
+    "We have sent you an email to": "Tumekutumia barua pepe kwa",
+    "with password recovery instruction.": "na maelekezo ya urejeshaji wa nywila.",
+    "Next Step check your email and reset password.": "Hatua inayofuata: angalia barua pepe yako na uweke nywila upya",
+    "Go to login": "Nenda kwa kuingia",
+    "Reset password via email": "Rudisha nywila upya kupitia barua pepe",
+    "will_be_sent_to_your_above_email": "Barua pepe itatumwa kwa anwani yako ya barua pepe hapo juu na maagizo ya urejeshaji wa nywila. Hakikisha unapata barua pepe hii kabla ya kubonyeza Tuma.",
+    "Email not found!": "Barua pepe haipatikani!"
+}

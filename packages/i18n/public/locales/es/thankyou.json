@@ -1,0 +1,14 @@
+{
+    "thankyou:Before sending an inquiry for a car, there is a place titled \"Got a Promotion Code\", please input this Code into that box to get discount.": "Antes de que envíe una consulta por un coche, hay un lugar titulado \"Obtuvo un código de promoción\", por favor ingrese este código en esa casilla para obtener un descuento.",
+    "thankyou:After already send an inquiry, please inform our sales specialist about this Code, we will give you discount.": "Después de que haya enviado una consulta, por favor informe a nuestros especialistas en ventas sobre este código, le daremos su descuento.",
+    "thankyou:There are 2 ways to use your Coupon Code.": "Hay 2 formas para que utilice su código de cupón.",
+    "thankyou:Here is your Coupon Code": "Este es su código de cupón",
+    "thankyou:Success !": "¡Éxito!",
+    "Import used cars directly from Japan": "Importar coches usados directamente desde Japón",
+    "thankyou:newAccountMessage": "<0>¡Felicidades!</0> Ha recibido una cuenta premium gratis.",
+    "thankyou:resetPasswordMessage": "La contraseña para la cuenta ha sido enviada a la dirección del correo electrónico anterior. Por favor, revise esa contraseña para proceder o puede <1>Restablecer la contraseña.</1>",
+    "thankyou:dealText50DollarOFf": "¿Quiere obtener <1>$50 de descuento</1> por este coche?",
+    "thankyou:emailText10Dollar": "<0>$100</0> por cada correo electrónico, hasta $50",
+    "thankyou:agreeTermsOfServices": "Estoy de acuerdo con los <1>Términos de los servicios</1>",
+    "thankyou:* We will send an invitation email to your friends in your mailing list.": "* Le enviaremos un correo electrónico de invitación a sus amigos que estén en la lista de su correo."
+}

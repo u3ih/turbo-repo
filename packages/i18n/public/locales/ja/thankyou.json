@@ -1,0 +1,14 @@
+{
+    "thankyou:Before sending an inquiry for a car, there is a place titled \"Got a Promotion Code\", please input this Code into that box to get discount.": "問合せフォームの「クーポンコードをお持ちでしょか？」の記入欄にてコードを入力すれば割引が貰えます。",
+    "thankyou:After already send an inquiry, please inform our sales specialist about this Code, we will give you discount.": "問合せた後にコードを弊社の担当者へ知らせた場合にも、割引が貰えます。",
+    "thankyou:There are 2 ways to use your Coupon Code.": "クーポンコードの使用する方法は２つあります。",
+    "thankyou:Here is your Coupon Code": "クーポンコードはこちらです",
+    "thankyou:Success !": "成功！",
+    "Import used cars directly from Japan": "日本から中古車を輸入する",
+    "thankyou:newAccountMessage": "<0>おめでとうございます!</0> プレミアム会員を無料でゲットしました！",
+    "thankyou:resetPasswordMessage": "アカウントのパスワードは上のメールアドレスに送信済みです。パスワードをメールにて確認するか<1>リセット</1>してください。",
+    "thankyou:dealText50DollarOFf": "この車両に<1>$50 off</1> をもらいませんか？",
+    "thankyou:emailText10Dollar": "各メールを入力すれば<0>$10</0>OFF、最大$50がもらえます！",
+    "thankyou:agreeTermsOfServices": "<1>利用規約</1>に同意します。",
+    "thankyou:* We will send an invitation email to your friends in your mailing list.": "*共有されたメールアドレアスに招待メールを送ります。"
+}

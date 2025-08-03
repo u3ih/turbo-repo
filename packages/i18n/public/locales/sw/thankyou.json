@@ -1,0 +1,14 @@
+{
+    "thankyou:Before sending an inquiry for a car, there is a place titled \"Got a Promotion Code\", please input this Code into that box to get discount.": "Kabla ya kutuma ombi la gari, kuna mahali penye  jina \"Una Msimbo wa Uendelezaji\", tafadhali ingiza Msimbo huu kwenye sanduku hilo kupata punguzo.",
+    "thankyou:After already send an inquiry, please inform our sales specialist about this Code, we will give you discount.": "Baada ya kutuma ombi, tafadhali arifu mtaalam wetu wa mauzo kuhusu nambari hii, tutakupa punguzo.",
+    "thankyou:There are 2 ways to use your Coupon Code.": "Kuna njia 2 za kutumia nambari yako ya Coupon.",
+    "thankyou:Here is your Coupon Code": "Hapa kuna Msimbo wako wa Coupon",
+    "thankyou:Success !": "Fanikiwa !",
+    "Import used cars directly from Japan": "Ingiza magari yaliyotumiwa moja kwa moja kutoka Japan",
+    "thankyou:newAccountMessage": "<0>Congratulations!</0> Umepokea akaunti ya premuim bila malipo.",
+    "thankyou:resetPasswordMessage": "Nenosiri la akaunti limetumwa kwa anwani ya barua pepe hapo juu. Tafadhali angalia nenosiri hilo ili kuendelea au unaweza <1>Reset password.</1>",
+    "thankyou:dealText50DollarOFf": "Unataka kupata <1>$50 off</1> kwa gari hili?",
+    "thankyou:emailText10Dollar": "<0>$100</0> kwa kila barua pepe, hadi $50",
+    "thankyou:agreeTermsOfServices": "Nakubaliana na <1>Terms of services</1>",
+    "thankyou:* We will send an invitation email to your friends in your mailing list.": "* Tutatuma barua pepe ya mwaliko kwa marafiki wako kwenye orodha yako ya barua."
+}

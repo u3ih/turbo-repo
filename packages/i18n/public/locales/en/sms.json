@@ -1,0 +1,18 @@
+{
+  "INQUIRY": "INQUIRY",
+  "Reply via Email": "Reply via Email",
+  "Reply via MyCar": "Reply via MyCar",
+  "id_password_does_not_match": "The ID and Password does not match. Please try again or use password recovery option below.",
+  "Please login to MyCar to reply": "Please login to MyCar to reply",
+  "email used to send INQUIRY": "email used to send INQUIRY",
+  "already_created_an_account": "We have already created an account for this email. The password for the account is sent to the above email address. Please check that password to proceed or you can reset pasword below.",
+  "Reset password via above email": "Reset password via above email",
+  "Success!": "Success!",
+  "We have sent you an email to": "We have sent you an email to",
+  "with password recovery instruction.": "with password recovery instruction.",
+  "Next Step check your email and reset password.": "Next Step: check your email and reset password.",
+  "Go to login": "Go to login",
+  "Reset password via email": "Reset password via email",
+  "will_be_sent_to_your_above_email": "An email will be sent to your above email address with password recovery instruction. Make sure you have access to this email before clicking Send.",
+  "Email not found!": "Email not found!"
+}

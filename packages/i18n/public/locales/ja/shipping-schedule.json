@@ -1,0 +1,12 @@
+{
+    "Company": "会社",
+    "Ship Name": "船名",
+    "Voyage": "船路",
+    "Shipping Schedule": "シッピングスケジュール",
+    "help_track_shipment": "船のルートを追跡できるよう、CAR FROM JAPAN は以下のシッピングスケジュールを提供します。",
+    "Choose Your Destination": "目的地を選ぶ",
+    "Jump to Continent": "地域にジャンプ",
+    "ETD: Estimated Time of Departure": "ETD: 出発予定日",
+    "ETA: Estimated Time of Arrival": "ETA: 到着予定日",
+    "Note: click any row to highlight it": "備考：強調したい行をクリックしてください"
+}

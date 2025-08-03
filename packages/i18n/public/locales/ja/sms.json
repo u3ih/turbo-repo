@@ -1,0 +1,18 @@
+{
+    "INQUIRY": "問合せ",
+    "Reply via Email": "メールにて返信",
+    "Reply via MyCar": "マイカーにて返信",
+    "id_password_does_not_match": "IDとパスワードが合っていません。再度入力するか、したからパスワードを再設定ください。",
+    "Please login to MyCar to reply": "マイカーにログインし、ご返信ください",
+    "email used to send INQUIRY": "問合せ時に利用されたメール",
+    "already_created_an_account": "このメールアドレスで会員登録が完了しました。このメール宛に仮パスワードを送信しましたので、それを確認するか、パスワードを下から再設定ください。",
+    "Reset password via above email": "上のメールを使ってパスワードを再設定する",
+    "Success!": "成功！",
+    "We have sent you an email to": "メールを発信しました",
+    "with password recovery instruction.": "パスワード再設定の案内",
+    "Next Step check your email and reset password.": "次のステップ：メールを確認しパスワードを再設定ください",
+    "Go to login": "ログイン画面へ",
+    "Reset password via email": "パスワードをメールにて再設定",
+    "will_be_sent_to_your_above_email": "パスワード再設定案内を上のメール宛発信します。このメールにアクセスできる事をご確認の上「送信」ボタンを押してください。",
+    "Email not found!": "メールが見つかりませんでした。"
+}
