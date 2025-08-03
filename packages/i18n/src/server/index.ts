@@ -15,6 +15,7 @@ const defaultResourcesToBackendPath = (language: string, namespace: string) => {
 export const initI18next = async (lng: string, ns: string | string[], options: I18nServerTypes.UseServerTranslationParams['options'] = {}) => {
   // on server side we create a new instance for each render, because during compilation everything seems to be executed in parallel
   const i18nInstance = options.i18n || createInstance()
+  console.log("heheh")
   i18nInstance.use(initReactI18next)
   if (!options.resources) {
     i18nInstance.use(
