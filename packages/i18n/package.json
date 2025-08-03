@@ -1,16 +1,13 @@
 {
-  "name": "hieuchan-i18n",
+  "name": "i18n-hieuchan",
   "version": "1.0.0",
   "main": "./dist/cjs/index.cjs",
   "module": "./dist/esm/index.mjs",
   "types": "./dist/types/index.d.ts",
-  "private": false,
+  "private": true,
   "files": [
     "dist"
   ],
-  "publishConfig": {
-    "access": "restricted"
-  },
   "exports": {
     ".": {
       "types": "./dist/types/index.d.ts",
