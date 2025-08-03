@@ -6,8 +6,8 @@
     "dev": "turbo run dev",
     "lint": "turbo run lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
-    "release:version": "npx changeset version && git add . && git commit -m \"chore: version packages\"",
-    "release:publish": "npx changeset publish && git push --follow-tags",
+    "changesets:version": "npx changeset version && git add . && git commit -m \"chore: version packages\"",
+    "changesets:publish": "npx changeset publish && git push --follow-tags",
     "check-types": "turbo run check-types",
     "prepare": "husky"
   },
